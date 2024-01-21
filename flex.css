@@ -38,3 +38,11 @@ p{
     font-family:cursive ;
     color: #f64f59;
 }
+img{
+    
+    transition: transform 0.2s;
+}
+img:hover
+{
+    transform:  scale(1.2);
+}
