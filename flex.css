@@ -6,7 +6,7 @@
     background:linear-gradient(to bottom,#12c2e9,#c471ed,#f64f59);    
     justify-content: space-evenly;
     flex-wrap:wrap ;
-    padding:50px;
+    padding: 40px;
 
 }
 .item
@@ -32,3 +32,9 @@
     border:1.5px solid black;
 }
 
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family:cursive ;
+    color: #f64f59;
+}
